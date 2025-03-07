@@ -2,7 +2,7 @@
     "ACTIVEAURAS.measurmentoptions_name": "Měřící systém",
     "ACTIVEAURAS.measurmentoptions_hint": "Použije systémem definovaný měřící systém pohybu namísto přímých čar (eukleidovské vzdálenost), ve výchozím nastavení zapnuto.",
     "ACTIVEAURAS.measurementHeight_name": "Systém měření výšky",
-    "ACTIVEAURAS.measurementHeight_hint": "Systém měření výšek ve vztahu k aurám. Pravda znamená jednoduché porovnání výšek, nepravda znamená eukleidovské vzdálenosti (experimentální).",
+    "ACTIVEAURAS.measurementHeight_hint": "Systém měření výšek ve vztahu k aurám. Zaškrtnutí znamená jednoduché porovnání výšek, odškrtnutí znamená eukleidovské vzdálenosti (experimentální).",
     "ACTIVEAURAS.debug_name": "Ladění",
     "ACTIVEAURAS.debug_hint": "Další záznamy konzole pro ladění.",
     "ACTIVEAURAS.tabname": "Aury",
