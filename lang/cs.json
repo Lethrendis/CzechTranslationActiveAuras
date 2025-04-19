@@ -50,9 +50,9 @@
     "ACTIVEAURAS.FORM_Temporary": "Aplikovat ikonu aktivního efektu na ovlivněné tokeny",
     "ACTIVEAURAS.FORM_NameOverride": "Přepsání názvu, přejmenuje vytvořený efekt",
     "ACTIVEAURAS.FORM_StatusConditions": "Podmínky stavu k přidání",
-    "ACTIVEAURAS.ApplyLog": "ActiveAuras | Aplikováno '{effectDataName}' na {tokenName}",
-    "ACTIVEAURAS.RemoveLog": "ActiveAuras | Odstraněno '{effectDataName}' z {tokenName}",
-    "ACTIVEAURAS.IgnoreSelfLog": "ActiveAuras | Ignorována změna '{effectDataName}' {changeKey} pro {actorName}",
+    "ACTIVEAURAS.ApplyLog": "ActiveAuras | '{effectDataName}' aplikováno na token {tokenName}",
+    "ACTIVEAURAS.RemoveLog": "ActiveAuras | '{effectDataName}' odstraněno z tokenu {tokenName}",
+    "ACTIVEAURAS.IgnoreSelfLog": "ActiveAuras | Ignorována změna '{effectDataName}' {changeKey} pro aktéra {actorName}",
     "ACTIVEAURAS.SaveNotify": "${tokenName} absolvuje záchranu proti ${oldeffectDataName}"
 }
 
