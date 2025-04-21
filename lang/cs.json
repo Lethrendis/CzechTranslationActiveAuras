@@ -33,7 +33,8 @@
     "ACTIVEAURAS.FORM_Height": "Kontrola výšky tokenu",
     "ACTIVEAURAS.FORM_Alignment": "Kontrola přesvědčení",
     "ACTIVEAURAS.FORM_Type": "Typy bytostí se shodují, rozděl více typů pomocí ;",
-    "ACTIVEAURAS.FORM_CustomCondition": "JavaScript",
+    "ACTIVEAURAS.FORM_CustomCondition": "Vlastní ověření",
+    "ACTIVEAURAS.FORM_CustomConditionPrompt": "JavaScript",
     "ACTIVEAURAS.FORM_Good": "Dobro",
     "ACTIVEAURAS.FORM_Neutral": "Neutrální",
     "ACTIVEAURAS.FORM_Evil": "Zlo",
@@ -53,6 +54,7 @@
     "ACTIVEAURAS.ApplyLog": "ActiveAuras | '{effectDataName}' aplikováno na token {tokenName}",
     "ACTIVEAURAS.RemoveLog": "ActiveAuras | '{effectDataName}' odstraněno z tokenu {tokenName}",
     "ACTIVEAURAS.IgnoreSelfLog": "ActiveAuras | Ignorována změna '{effectDataName}' {changeKey} pro aktéra {actorName}",
-    "ACTIVEAURAS.SaveNotify": "${tokenName} absolvuje záchranu proti ${oldeffectDataName}"
+    "ACTIVEAURAS.SaveNotify": "${tokenName} absolvuje záchranu proti ${oldeffectDataName}",
+    "EFFECT.TABS.activeauras": "Active Auras"
 }
 
